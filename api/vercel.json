@@ -1,0 +1,10 @@
+{
+  "name": "nexity-wfs-proxy",
+  "version": 2,
+  "routes": [
+    {
+      "src": "/api/proxy",
+      "dest": "/api/proxy.js"
+    }
+  ]
+}
